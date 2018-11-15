@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "phantomjs": "^2.1.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "url": "^0.11.0"
+  },
+  "name": "phantomjs",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "kim",
+  "license": "ISC",
+  "description": ""
+}
